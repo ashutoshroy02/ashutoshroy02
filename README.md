@@ -1,5 +1,5 @@
 
-## Hi there 👋 I am ASHUTOSH ROY 😘✌️
+## Hi Guys 👋 I am ASHUTOSH ROY 😘✌️
 🔭 I am Researching about LLMs & Audio Processing.<br><br>👥 I’m looking to collaborate on Projects related to AI, machine learning, or computer vision.<br><br>🌱 I’m currently learning Advanced AI techniques, facial recognition , Audio and Video fingerprinting.<br><br>⚡ Fun fact:<br>I love playing badminton, exploring new travel routes, and uploading photos and videos on maps!
 
 
