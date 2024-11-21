@@ -1,6 +1,10 @@
 
-## Hi Guys 👋 I am ASHUTOSH ROY ☠️
-🔭 I am Researching about LLMs & Audio Processing.<br><br>👥 I’m looking to collaborate on Projects related to AI, machine learning, or computer vision.<br><br>🌱 I’m currently learning Advanced AI techniques, facial recognition , Audio and Video fingerprinting.<br><br>⚡ Fun fact:<br>I love playing badminton, exploring new travel routes, and uploading photos and videos on maps!
+Hi there 👋 I'm Ashutosh Roy
+🔭 Research Focus: Working on Large Language Models (LLMs) and Audio Processing using Transformers (Hugging Face), PyTorch, TensorFlow, and Librosa. <br>
+👥 Open to Collaboration: Interested in projects involving NLP, computer vision, and signal processing, leveraging tools like Hugging Face Transformers, OpenCV, and FFmpeg. <br>
+🌱 Currently Learning: Advanced concepts in transformers, facial recognition systems, and audio/video fingerprinting with frameworks such as DLib, DeepFace, and ACRCloud APIs. <br>
+⚡ Fun Fact:
+I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos! <br>
 
 
 ## 🌐 Socials:
