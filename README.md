@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Ashutosh Roy
-🔭 Research Focus: Working on Large Language Models (LLMs) and Audio Processing using Transformers (Hugging Face), PyTorch, TensorFlow, and Librosa.
-👥 Open to Collaboration: Interested in projects involving NLP, computer vision, and signal processing, leveraging tools like Hugging Face Transformers, OpenCV, and FFmpeg.
-🌱 Currently Learning: Advanced concepts in transformers, facial recognition systems, and audio/video fingerprinting with frameworks such as DLib, DeepFace, and ACRCloud APIs.
-⚡ Fun Fact:
-I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
+🔭 Research Focus: Working on Large Language Models (LLMs) and Audio Processing using Transformers (Hugging Face), PyTorch, TensorFlow, and Librosa.<br><br>👥 Open to Collaboration: Interested in projects involving NLP, computer vision, and signal processing, leveraging tools like Hugging Face Transformers, OpenCV, and FFmpeg.<br><br>🌱 Currently Learning: Advanced concepts in transformers, facial recognition systems, and audio/video fingerprinting with frameworks such as DLib, DeepFace, and ACRCloud APIs.<br><br>⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu.tosh.roy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-roy-41618b202/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ashutoshroy9173) 
