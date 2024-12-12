@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;DATA%20SCIENTIST;AI%20RESEARCHER;PROMPT%20ENGINEERING;DEEP%20LEARNING%20PRACTITIONER&font=Fira%20Code&align=left&width=600&height=50&color=e1fc87&vCenter=true&pause=1000&size=25" />
 </p>
 
-## Hi there 👋 I'm Ashutosh Roy
-🔭 Research Focus: Working on Large Language Models (LLMs) and Audio Processing using Transformers (Hugging Face), PyTorch, TensorFlow, and Librosa.<br><br>
-💼 Currently Associated With: Mitovoid AI, contributing to cutting-edge AI research and development. <br><br>👥 Open to Collaboration: Interested in projects involving NLP, computer vision, and signal processing, leveraging tools like Hugging Face Transformers, OpenCV, and FFmpeg.<br><br>🌱 Currently Learning: Advanced concepts in transformers, facial recognition systems, and audio/video fingerprinting with frameworks such as DLib, DeepFace, and ACRCloud APIs.<br><br>⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
+## Hey 👋 I'm Ashutosh Roy
+🔭 Working on ML models, LLMs - Transformers and Image processing - Computer Vision, PyTorch.<br><br>
+👥 Open to Collaboration: Interested in projects involving App development - Flutter, NLP, computer vision, and software Development - Python <br><br>⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu.tosh.roy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-roy-41618b202/) 
