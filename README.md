@@ -3,7 +3,7 @@
 </p>
 
 ## Hey 👋 I'm Ashutosh Roy 
-🔭 Working on ML models, LLMs - Transformers , Computer Vision , PyTorch. Vist at : [Hugging Face](https://huggingface.co/ashutoshroy02)<br><br>
+🔭 Working on ML models, LLMs - Transformers , Computer Vision , PyTorch. Vist at : [Hugging Face](https://huggingface.co/ashutoshroy02)  [`fhai50032`](https://huggingface.co/fhai50032)<br><br>
 👥 Open to Collaboration: Interested in projects involving App development - Flutter, Software Development - Python, NLP, computer vision <br><br>
 ⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
 
