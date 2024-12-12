@@ -1,10 +1,11 @@
 <p align="left">
-    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;DATA%20SCIENTIST;AI%20RESEARCHER;PROMPT%20ENGINEERING;DEEP%20LEARNING%20PRACTITIONER&font=Fira%20Code&align=left&width=600&height=50&color=e1fc87&vCenter=true&pause=1000&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;AI%20RESEARCHER;PROMPT%20ENGINEERING;DEEP%20LEARNING%20&font=Fira%20Code&align=left&width=600&height=50&color=e1fc87&vCenter=true&pause=1000&size=25" />
 </p>
 
-## Hey 👋 I'm Ashutosh Roy
-🔭 Working on ML models, LLMs - Transformers and Image processing - Computer Vision, PyTorch.<br><br>
-👥 Open to Collaboration: Interested in projects involving App development - Flutter, NLP, computer vision, and software Development - Python <br><br>⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
+## Hey 👋 I'm Ashutosh Roy !
+🔭 Working on ML models, LLMs - Transformers , Computer Vision , PyTorch. vist at : 'huggingface.co/ashutoshroy02'<br><br>
+👥 Open to Collaboration: Interested in projects involving App development - Flutter, Software Development - Python, NLP, computer vision <br><br>
+⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu.tosh.roy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-roy-41618b202/) 
