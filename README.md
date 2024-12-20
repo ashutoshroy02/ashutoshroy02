@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;AI%20RESEARCHER;PROMPT%20ENGINEERING;DEEP%20LEARNING%20&font=Fira%20Code&align=left&width=600&height=50&color=e1fc87&vCenter=true&pause=1000&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;AI%20RESEARCHER;DEEP%20LEARNING%20&font=Fira%20Code&align=left&width=600&height=50&color=e1fc87&vCenter=true&pause=1000&size=25" />
 </p>
 
 ## Hey 👋 I'm Ashutosh Roy 
