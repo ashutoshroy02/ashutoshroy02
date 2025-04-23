@@ -1,6 +1,4 @@
-<p align="left">
-    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;AI%20RESEARCHER&font=Fira%20Code&align=left&width=600&height=50&color=e1fc87&vCenter=true&pause=1000&size=25" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Researcher;Python+Automation" alt="Typing SVG" /></a>
 
 ## Hey 👋 I'm Ashutosh Roy 
 🔭 Working on LLMs - Transformers , Computer Vision , Audio Models, PyTorch. Vist at : [`Hugging Face`](https://huggingface.co/ashutoshroy02) <br><br>
