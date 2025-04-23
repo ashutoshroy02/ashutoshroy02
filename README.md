@@ -2,7 +2,7 @@
 
 ## Hey 👋 I'm Ashutosh Roy 
 🔭 Working on LLMs - Transformers , Computer Vision , Audio Models, PyTorch. Vist at : [`Hugging Face`](https://huggingface.co/ashutoshroy02) <br><br>
-👥 Open to Collaboration: Interested in projects involving App development - Flutter, Software Development - Python, NLP, computer vision <br><br>
+👥 Open to Collaboration: Interested in projects involving App development - Flutter, Small apps , short helping apps <br><br>
 ⚡ Fun Fact:I enjoy playing badminton, exploring new travel routes, and contributing to Google Maps by sharing photos and videos!
 
 ## 🌐 Socials:
