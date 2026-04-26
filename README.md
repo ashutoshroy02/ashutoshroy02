@@ -2,7 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Roy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Engineer;LLMs+%7C+Computer+Vision+%7C+Audio+AI;Building+Real-World+AI+Systems;Open+to+Internships+%F0%9F%9A%80" />
+  <a href="https://mitovoid.netlify.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Engineer;LLMs+%7C+Computer+Vision+%7C+Audio+AI;Building+Real-World+AI+Systems;Open+to+Internships+%F0%9F%9A%80" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://mitovoid.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
