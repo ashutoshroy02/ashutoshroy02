@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ashutosh+Roy;ML+Engineer;AI+Builder;Open+to+Opportunities" />
 
-## Hey 👋 I'm Ashutosh Roy 
 🔭 Working on LLMs - Transformers , Computer Vision , Audio Models, PyTorch. Vist at : [`Hugging Face`](https://huggingface.co/ashutoshroy02) <br><br>
 
 ## 📄 My Resume
