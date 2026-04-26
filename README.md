@@ -63,7 +63,7 @@
 
 ## 🌍 Let's Connect
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ashu2003roy@example.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
