@@ -40,18 +40,9 @@
 - 🧠 Medical Chatbot (LLM Fine-tuned)
 - 🎵 Beat Bubble (Music Identification App)
 - 📄 OCR + Document AI (IIT Delhi Internship)
-- 🧍‍♂️ Facial Recognition (YOLO)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshroy02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshroy02&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📄 Resume
 <p align="center">
