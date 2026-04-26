@@ -1,10 +1,70 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ashutosh+Roy;ML+Engineer;AI+Builder;Open+to+Opportunities" />
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Ashutosh Roy</h1>
 
-🔭 Working on LLMs - Transformers , Computer Vision , Audio Models, PyTorch. Vist at : [`Hugging Face`](https://huggingface.co/ashutoshroy02) <br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Engineer;LLMs+%7C+Computer+Vision+%7C+Audio+AI;Building+Real-World+AI+Systems;Open+to+Internships+%F0%9F%9A%80" />
+</p>
 
-## 📄 My Resume
+<p align="center">
+  <a href="https://huggingface.co/ashutoshroy02">
+    <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashutosh-roy-41618b202/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/ashu.tosh.roy">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram" />
+  </a>
+</p>
 
-[Click here to view my Resume](./resume/ashutosh_latest.pdf)
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu.tosh.roy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-roy-41618b202/) 
+## 🧠 About Me
+- 🎓 **AI/ML Engineer**  
+- 🤖 Building **LLMs, Transformers, OCR & AI Systems**  
+- 🔬 Working with **PyTorch, NLP, Computer Vision, Audio Models**  
+- ⚡ Focused on **real-world AI + scalable systems**  
+- 🚀 Currently exploring **RAG, Vector DBs & AI Agents**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,flutter,firebase,docker,git,linux" />
+</p>
+
+---
+
+## 📂 Featured Work
+- 🧠 Medical Chatbot (LLM Fine-tuned)
+- 🎵 Beat Bubble (Music Identification App)
+- 📄 OCR + Document AI (IIT Delhi Internship)
+- 🧍‍♂️ Facial Recognition (YOLO)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshroy02&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshroy02&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📄 Resume
+<p align="center">
+  <a href="./resume/ashutosh_latest.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-green?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🌍 Let's Connect
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
