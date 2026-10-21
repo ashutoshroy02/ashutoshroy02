@@ -12,7 +12,7 @@
 
 ## About
 
-Building agents, RAG systems, and speech/vision AI. Currently exploring multi-agent workflows and voice AI. Published researcher (RECCAP 2026, IIT Delhi).
+Building agents, RAG systems and saas apps and software. Currently exploring multi-agent workflows and voice AI. Published researcher (RECCAP 2026, IIT Delhi).
 
 ## Tech Stack
 
